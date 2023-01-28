@@ -1,4 +1,4 @@
-package services;
+package com.backend.enlazandoempleoweb.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.SimpleMailMessage;
